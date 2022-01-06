@@ -42,6 +42,32 @@ h1{
     padding-top: 2%;
 }
 .center{
-    text-align: center;
-   
+    text-align: center; 
+}
+.back-color-div1{
+    background-color: #fac8fa;
+    border-radius: 20px;
+    margin-left: 7%;
+    padding-left: 2%;
+    
+}
+.back-color-div2{
+    background-color: rgb(250, 189, 178);
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+    padding-left: 2%;
+}
+.back-color-div3{
+    background-color: rgb(247, 155, 247);
+    border-radius: 20px;
+    margin-right: 7%;
+    padding-left: 2%;
+}
+.padding-width{
+    width: 90%;
+    padding-left: 5%;
+}
+.padding-width img{
+    width: 40%;
 }
