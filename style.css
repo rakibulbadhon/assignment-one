@@ -5,7 +5,7 @@ body{
     display: flex;
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
     font-weight: bolder;
 }
 .color-change{
@@ -23,9 +23,10 @@ h1{
     width: 50%;
     padding-left: 10%;
     padding-top: 5%;
+    padding-right: 3%;
 }
 .width-item img{
-    width: 75%;
+    width: 80%;
 }
 .button{
     text-decoration: none;
@@ -70,4 +71,22 @@ h1{
 }
 .padding-width img{
     width: 40%;
+}
+.background{
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 220px;
+    background-position: left;
+}
+.second-background{
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 220px;
+    background-position: right;
+}
+.third-background{
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 220px;
+    background-position: left;
 }
