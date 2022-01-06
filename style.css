@@ -90,3 +90,19 @@ h1{
     background-size: 220px;
     background-position: left;
 }
+.clr-cng{
+    color: hsl(0, 97%, 49%);
+}
+.last-style{
+    text-align: center;
+    background-color: #111111;
+    padding-top: 1%;
+}
+.last-style h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.last-style p{
+    color: white;
+    padding-bottom: 2%;
+}
